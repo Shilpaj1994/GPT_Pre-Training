@@ -115,4 +115,6 @@ For the ground is nothing henceforth fell executioner come
 
 ### Try it out
 
-App Link
+App Link: https://huggingface.co/spaces/Shilpaj/ShakespeareGPT
+
+![App](./assets/app.gif)
